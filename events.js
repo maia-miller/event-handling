@@ -36,6 +36,9 @@ three.addEventListener('mouseenter', makeYellow)
 three.addEventListener('mouseleave', makeWhite)
 
 // CREATE FUNCTION four HERE
+var four - document.getElementById('four')
+
+four.addEventListener('click', makeBlue)
 
 // Changes the background color of event's target
 function makeBlue (evt) {
