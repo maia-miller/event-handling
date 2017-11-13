@@ -10,6 +10,7 @@ function start () {
 
   two()// Your turn! Create a new function called `two`, then call it from here.
   three()
+  four()
 }
 
 function one () {
